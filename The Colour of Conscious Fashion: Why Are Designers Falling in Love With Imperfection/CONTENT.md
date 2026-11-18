@@ -48,13 +48,13 @@ Because if the irregularity can be reproduced exactly, is it really irregularity
 
 ## **References**
 
-29. Platform Magazine, "Made at Nature's Pace: Kokun"  
-30. Jasmine Bains, "Nature as the Designer: Embracing Imperfection in Botanical Prints" (2025)  
-31. Homegrown, "Adheera: The Indian Label Weaving Nature into Textiles" (2025)  
-32. Mongabay India, "From opulence to sustainability, Indian fashion gets redesigned" (2019)  
-33. Istituto Marangoni, "How Indian Artisans Are Reimagining Slow Fashion" (2026)  
-34. Her Circle, "Made with Heart and Hand: 11 Craft-Centric Brands Worth Investing In" (2025); Maku Concept Statement, La Luna Lädeli  
-35. Cervellon, M.-C., Carey, L. and Harms, T., "Something old, something used," *International Journal of Retail and Distribution Management* (2012)
+1. Platform Magazine, "Made at Nature's Pace: Kokun"  
+2. Jasmine Bains, "Nature as the Designer: Embracing Imperfection in Botanical Prints" (2025)  
+3. Homegrown, "Adheera: The Indian Label Weaving Nature into Textiles" (2025)  
+4. Mongabay India, "From opulence to sustainability, Indian fashion gets redesigned" (2019)  
+5. Istituto Marangoni, "How Indian Artisans Are Reimagining Slow Fashion" (2026)  
+6. Her Circle, "Made with Heart and Hand: 11 Craft-Centric Brands Worth Investing In" (2025); Maku Concept Statement, La Luna Lädeli  
+7. Cervellon, M.-C., Carey, L. and Harms, T., "Something old, something used," *International Journal of Retail and Distribution Management* (2012)
 
 [image1]: ./images/image1.png
 [image2]: ./images/image2.png
